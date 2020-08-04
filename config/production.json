@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://folen:folen@cluster0.6fryp.mongodb.net/folentodo?retryWrites=true&w=majority",
+  "jwtSecret": "Folen backend key",
+  "baseUrl": "http://localhost:5000"
+}
